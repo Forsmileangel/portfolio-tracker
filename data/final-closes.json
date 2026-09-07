@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-05T00:10:32Z",
+  "generatedAt": "2026-09-07T12:40:41Z",
   "symbols": {
     "AAOI": {
       "market": "US",
@@ -180,10 +180,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 105.57,
+          "close": 105.53,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -365,10 +365,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 61.205,
+          "close": 61.64,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -550,10 +550,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 836.295,
+          "close": 849.28,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -735,10 +735,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 231.7,
+          "close": 230.36,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -920,10 +920,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 469.63,
+          "close": 477.57,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -1105,10 +1105,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 62.34,
+          "close": 62.31,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -1290,10 +1290,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 355.75,
+          "close": 357.9,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -1475,10 +1475,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 280.63,
+          "close": 281.86,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -1660,10 +1660,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 611.915,
+          "close": 616.77,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -1845,10 +1845,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 337.92,
+          "close": 338.46,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -2030,10 +2030,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 866.21,
+          "close": 881.255,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -2215,10 +2215,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 999.775,
+          "close": 1016.59,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -2400,10 +2400,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 215.37,
+          "close": 226.39,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -2585,10 +2585,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 157.63,
+          "close": 158.78,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -2770,10 +2770,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 175.7,
+          "close": 174.33,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -2955,10 +2955,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 1687.01,
+          "close": 1740.0,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -3140,10 +3140,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 353.65,
+          "close": 354.08,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -3325,10 +3325,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 424.645,
+          "close": 428.91,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -3510,10 +3510,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 516.84,
+          "close": 519.86,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -3695,10 +3695,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 459.76,
+          "close": 467.46,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -3880,10 +3880,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 19.8,
+          "close": 19.49,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -4065,10 +4065,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 25.19,
+          "close": 24.97,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -4250,10 +4250,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 33.22,
+          "close": 34.1,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -4435,10 +4435,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 101.3084,
+          "close": 102.05,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -4620,10 +4620,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 334.53,
+          "close": 335.31,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -4805,10 +4805,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 141.44,
+          "close": 142.8,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -4990,10 +4990,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 35.8987,
+          "close": 36.46,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -5175,10 +5175,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 22.84,
+          "close": 25.19,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -5360,10 +5360,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 7.515,
+          "close": 7.62,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -5545,22 +5545,16 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 59.8144,
+          "close": 59.82,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
     "00675L.TW": {
       "market": "TW",
       "byDate": {
-        "2026-07-27": {
-          "close": 290.05,
-          "final": true,
-          "source": "twse-stock-day",
-          "fetchedAt": "2026-08-27T17:02:53Z"
-        },
         "2026-07-28": {
           "close": 262.7,
           "final": true,
@@ -5734,6 +5728,12 @@
           "final": true,
           "source": "twse-stock-day",
           "fetchedAt": "2026-09-04T11:23:36Z"
+        },
+        "2026-09-07": {
+          "close": 332.75,
+          "final": true,
+          "source": "twse-stock-day",
+          "fetchedAt": "2026-09-07T12:40:36Z"
         }
       }
     },
@@ -5915,10 +5915,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 320.03,
+          "close": 319.97,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -6100,10 +6100,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 37.12,
+          "close": 37.31,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -6285,10 +6285,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 94.76,
+          "close": 95.8,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -6470,10 +6470,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 37.99,
+          "close": 37.94,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -6655,10 +6655,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 251.46,
+          "close": 252.09,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -6840,10 +6840,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 17.1499,
+          "close": 17.36,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -7025,10 +7025,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 219.92,
+          "close": 223.55,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -7210,10 +7210,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 104.8802,
+          "close": 108.27,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -7395,10 +7395,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 10.7099,
+          "close": 10.83,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -7580,10 +7580,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 5.885,
+          "close": 6.04,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -7765,10 +7765,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 48.23,
+          "close": 49.75,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -7950,10 +7950,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 97.51,
+          "close": 97.91,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -8135,10 +8135,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 33.2017,
+          "close": 34.25,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -8320,10 +8320,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 38.21,
+          "close": 37.69,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -8505,10 +8505,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 16.4101,
+          "close": 17.36,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -8690,10 +8690,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 9.105,
+          "close": 9.15,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -8875,10 +8875,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 79.025,
+          "close": 80.498,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -9075,6 +9075,12 @@
           "final": true,
           "source": "hkex-daily-quotation",
           "fetchedAt": "2026-09-04T13:34:17Z"
+        },
+        "2026-09-07": {
+          "close": 39.4,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -9256,10 +9262,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 22.455,
+          "close": 22.65,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -9441,22 +9447,16 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 28.3597,
+          "close": 29.37,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
     "00631L.TW": {
       "market": "TW",
       "byDate": {
-        "2026-07-27": {
-          "close": 33.54,
-          "final": true,
-          "source": "twse-stock-day",
-          "fetchedAt": "2026-08-27T17:02:53Z"
-        },
         "2026-07-28": {
           "close": 30.6,
           "final": true,
@@ -9630,6 +9630,12 @@
           "final": true,
           "source": "twse-stock-day",
           "fetchedAt": "2026-09-04T11:23:36Z"
+        },
+        "2026-09-07": {
+          "close": 37.84,
+          "final": true,
+          "source": "twse-stock-day",
+          "fetchedAt": "2026-09-07T12:40:36Z"
         }
       }
     },
@@ -9811,10 +9817,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 39.4954,
+          "close": 39.62,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -9996,10 +10002,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 50.3597,
+          "close": 49.63,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -10181,10 +10187,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 9.985,
+          "close": 10.03,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -10366,10 +10372,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 32.76,
+          "close": 33.29,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -10551,10 +10557,10 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 13.3417,
+          "close": 13.82,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -10650,6 +10656,12 @@
           "final": true,
           "source": "hkex-daily-quotation",
           "fetchedAt": "2026-09-04T13:34:17Z"
+        },
+        "2026-09-07": {
+          "close": 76.2,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     },
@@ -10831,20 +10843,20 @@
           "fetchedAt": "2026-09-05T00:10:12Z"
         },
         "2026-09-04": {
-          "close": 88.635,
+          "close": 88.8,
           "final": false,
           "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-04T15:40:22.614099+00:00"
+          "fetchedAt": "2026-09-07T02:26:07.140441+00:00"
         }
       }
     }
   },
   "markets": {
-    "US": {
+    "TW": {
       "status": "ok",
-      "source": "yahoo-yfinance-final",
-      "symbols": 55,
-      "total": 55,
+      "source": "twse-stock-day",
+      "symbols": 2,
+      "total": 2,
       "errors": 0
     }
   }
