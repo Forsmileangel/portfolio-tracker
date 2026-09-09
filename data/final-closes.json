@@ -1,16 +1,10 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-09T13:46:26Z",
+  "generatedAt": "2026-09-09T16:53:22Z",
   "symbols": {
     "AAOI": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 88.13999939,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 76.51999664,
           "final": true,
@@ -184,18 +178,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 111.39,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "AXTI": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 42.75999832,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 36.97000122,
           "final": true,
@@ -369,18 +363,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 70.67,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "STX": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 747.29998779,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 764.42999268,
           "final": true,
@@ -554,18 +548,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 908.33,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "NVDA": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 197.00999451,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 190.00999451,
           "final": true,
@@ -739,18 +733,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 224.165,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "AMD": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 454.61999512,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 429.55999756,
           "final": true,
@@ -924,18 +918,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 522.29,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "ASTS": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 56.54999924,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 53.02999878,
           "final": true,
@@ -1109,18 +1103,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 63.52,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "AVGO": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 380.91000366,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 370.32000732,
           "final": true,
@@ -1294,18 +1288,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 361.4743,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "COHR": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 243.33000183,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 222.05000305,
           "final": true,
@@ -1479,18 +1473,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 309.36,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "META": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 593.40997314,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 585.60998535,
           "final": true,
@@ -1664,18 +1658,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 651.26,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "GOOGL": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 333.70999146,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 336.70999146,
           "final": true,
@@ -1849,18 +1843,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 329.4,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "LITE": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 651.92999268,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 602.34997559,
           "final": true,
@@ -2034,18 +2028,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 1013.825,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "MU": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 820.5300293,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 739.0,
           "final": true,
@@ -2219,18 +2213,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 1022.405,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "NBIS": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 169.69000244,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 148.22000122,
           "final": true,
@@ -2404,18 +2398,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 243.5216,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "ORCL": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 119.95999908,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 117.73999786,
           "final": true,
@@ -2589,18 +2583,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 161.315,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "PLTR": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 123.52999878,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 123.0,
           "final": true,
@@ -2774,18 +2768,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 171.19,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "SNDK": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 1096.09997559,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 1015.89001465,
           "final": true,
@@ -2959,18 +2953,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 1768.13,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "TSLA": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 307.44000244,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 298.32000732,
           "final": true,
@@ -3144,18 +3138,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 370.3,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "TSM": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 392.30999756,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 374.67001343,
           "final": true,
@@ -3329,18 +3323,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 434.21,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "SOXX": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 491.45999146,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 465.0,
           "final": true,
@@ -3514,18 +3508,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 530.78,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "WDC": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 463.51000977,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 462.04000854,
           "final": true,
@@ -3699,18 +3693,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 491.66,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "BMNU": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 10.68999958,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 9.52000046,
           "final": true,
@@ -3884,18 +3878,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 18.77,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "BMNR": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 17.56999969,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 16.59000015,
           "final": true,
@@ -4069,18 +4063,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 24.59,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "CCUP": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 14.69999981,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 13.39999962,
           "final": true,
@@ -4254,18 +4248,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 29.15,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "CRCL": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 64.31999969,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 61.36000061,
           "final": true,
@@ -4439,18 +4433,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 94.5401,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "GOOG": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 332.6000061,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 335.76000977,
           "final": true,
@@ -4624,18 +4618,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 327.14,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "MSTR": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 96.16000366,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 93.33000183,
           "final": true,
@@ -4809,18 +4803,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 134.455,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "MSTU": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 18.79999924,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 17.70000076,
           "final": true,
@@ -4994,18 +4988,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 32.24,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "NBIL": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 17.86000061,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 13.35000038,
           "final": true,
@@ -5179,18 +5173,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 29.0,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "ONDS": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 7.86000013,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 6.80000019,
           "final": true,
@@ -5364,18 +5358,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 7.4695,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "SLV": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 51.70000076,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 51.77000046,
           "final": true,
@@ -5549,6 +5543,12 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 60.86,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
@@ -5740,12 +5740,6 @@
     "AAPL": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 340.07998657,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 338.19000244,
           "final": true,
@@ -5919,18 +5913,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 313.275,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "AAPX": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 42.90999985,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 42.41999817,
           "final": true,
@@ -6104,18 +6098,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 35.65,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "INTC": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 86.30000305,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 81.87999725,
           "final": true,
@@ -6289,18 +6283,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 105.0486,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "MSFU": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 24.29999924,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 24.11000061,
           "final": true,
@@ -6474,18 +6468,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 36.7,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "ARM": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 244.74000549,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 224.88999939,
           "final": true,
@@ -6659,18 +6653,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 263.88,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "HAWK": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 20.22999954,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 19.0,
           "final": true,
@@ -6844,18 +6838,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 16.485,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "MRVL": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 174.47000122,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 163.3999939,
           "final": true,
@@ -7029,18 +7023,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 236.38,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "MRVU": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 72.76999664,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 63.06999969,
           "final": true,
@@ -7214,18 +7208,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 120.4,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "AAOX": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 9.52999973,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 7.01000023,
           "final": true,
@@ -7399,18 +7393,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 12.0,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "AXTX": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 4.15999985,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 3.00999999,
           "final": true,
@@ -7584,18 +7578,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 7.7404,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "AMDL": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 47.99000168,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 42.43000031,
           "final": true,
@@ -7769,18 +7763,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 59.1948,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "GGLL": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 97.23999786,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 99.04000092,
           "final": true,
@@ -7954,18 +7948,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 92.71,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "MUU": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 24.54999924,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 19.62999916,
           "final": true,
@@ -8139,18 +8133,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 34.725,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "NVDL": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 28.42000008,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 26.48999977,
           "final": true,
@@ -8324,18 +8318,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 35.665,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "SNXX": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 8.03999996,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 6.9000001,
           "final": true,
@@ -8509,18 +8503,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 17.92,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "TSLL": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 7.1500001,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 6.73999977,
           "final": true,
@@ -8694,18 +8688,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 9.979,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "TSMX": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 69.12999725,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 62.93000031,
           "final": true,
@@ -8879,6 +8873,12 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 82.6,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
@@ -9117,12 +9117,6 @@
     "COHX": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 19.67000008,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 16.21999931,
           "final": true,
@@ -9296,18 +9290,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 27.03,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "LITX": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 18.22999954,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 15.40999985,
           "final": true,
@@ -9481,6 +9475,12 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 38.105,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
@@ -9672,12 +9672,6 @@
     "AVGX": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 46.34999847,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 43.75999832,
           "final": true,
@@ -9851,18 +9845,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 40.363,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "PLTU": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 27.37000084,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 27.17000008,
           "final": true,
@@ -10036,18 +10030,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 47.5,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "NOK": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 8.93000031,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 8.40999985,
           "final": true,
@@ -10221,18 +10215,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 10.945,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "LNOK": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 27.84000015,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 24.29000092,
           "final": true,
@@ -10406,18 +10400,18 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 19.655,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
     "RAM": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 9.60999966,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-08-27T17:03:23Z"
-        },
         "2026-07-29": {
           "close": 8.39999962,
           "final": true,
@@ -10591,6 +10585,12 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 14.685,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     },
@@ -10710,12 +10710,6 @@
     "USD": {
       "market": "US",
       "byDate": {
-        "2026-07-28": {
-          "close": 75.83999634,
-          "final": true,
-          "source": "yahoo-yfinance-final",
-          "fetchedAt": "2026-09-05T00:10:12Z"
-        },
         "2026-07-29": {
           "close": 68.77999878,
           "final": true,
@@ -10889,6 +10883,12 @@
           "final": false,
           "source": "fundamentals-bootstrap",
           "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+        },
+        "2026-09-09": {
+          "close": 89.315,
+          "final": false,
+          "source": "fundamentals-bootstrap",
+          "fetchedAt": "2026-09-09T15:48:39.749390+00:00"
         }
       }
     }
