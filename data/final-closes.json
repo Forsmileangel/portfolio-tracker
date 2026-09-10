@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-09-09T16:53:22Z",
+  "generatedAt": "2026-09-10T00:18:46Z",
   "symbols": {
     "AAOI": {
       "market": "US",
@@ -174,10 +174,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 111.55,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 111.55000305,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 111.39,
@@ -359,10 +359,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 69.56,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 69.55999756,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 70.67,
@@ -544,10 +544,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 904.38,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 904.38000488,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 908.33,
@@ -729,10 +729,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 225.73,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 225.72999573,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 224.165,
@@ -914,10 +914,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 505.74,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 505.73999023,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 522.29,
@@ -1099,10 +1099,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 66.12,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 66.12000275,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 63.52,
@@ -1284,10 +1284,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 368.56,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 368.55999756,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 361.4743,
@@ -1469,10 +1469,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 301.88,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 301.88000488,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 309.36,
@@ -1654,10 +1654,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 613.48,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 613.47998047,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 651.26,
@@ -1839,10 +1839,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 338.36,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 338.35998535,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 329.4,
@@ -2024,10 +2024,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 978.535,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 978.53497314,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 1013.825,
@@ -2209,10 +2209,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 1000.26,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 1000.26000977,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 1022.405,
@@ -2394,10 +2394,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 243.88,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 243.88000488,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 243.5216,
@@ -2579,10 +2579,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 162.52,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 162.52000427,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 161.315,
@@ -2764,10 +2764,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 170.3,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 170.30000305,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 171.19,
@@ -2949,10 +2949,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 1737.99,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 1737.98999023,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 1768.13,
@@ -3134,10 +3134,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 368.16,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 368.16000366,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 370.3,
@@ -3320,9 +3320,9 @@
         },
         "2026-09-08": {
           "close": 439.0,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 434.21,
@@ -3504,10 +3504,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 528.4,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 528.40002441,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 530.78,
@@ -3689,10 +3689,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 477.3,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 477.29998779,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 491.66,
@@ -3874,10 +3874,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 19.19,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 19.19000053,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 18.77,
@@ -4059,10 +4059,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 24.77,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 24.77000046,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 24.59,
@@ -4244,10 +4244,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 29.96,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 29.95999908,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 29.15,
@@ -4429,10 +4429,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 96.18,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 96.18000031,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 94.5401,
@@ -4614,10 +4614,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 335.38,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 335.38000488,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 327.14,
@@ -4799,10 +4799,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 136.52,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 136.52000427,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 134.455,
@@ -4984,10 +4984,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 33.31,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 33.31000137,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 32.24,
@@ -5169,10 +5169,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 29.01,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 29.01000023,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 29.0,
@@ -5354,10 +5354,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 7.62,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 7.61999989,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 7.4695,
@@ -5539,10 +5539,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 59.37,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 59.36999893,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 60.86,
@@ -5909,10 +5909,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 316.22,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 316.22000122,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 313.275,
@@ -6094,10 +6094,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 36.36,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 36.36000061,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 35.65,
@@ -6279,10 +6279,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 104.47,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 104.47000122,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 105.0486,
@@ -6464,10 +6464,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 37.06,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 37.06000137,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 36.7,
@@ -6649,10 +6649,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 261.53,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 261.52999878,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 263.88,
@@ -6834,10 +6834,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 17.83,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 17.82999992,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 16.485,
@@ -7019,10 +7019,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 225.41,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 225.41000366,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 236.38,
@@ -7204,10 +7204,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 110.24,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 110.23999786,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 120.4,
@@ -7389,10 +7389,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 12.04,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 12.03999996,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 12.0,
@@ -7574,10 +7574,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 7.57,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 7.57000017,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 7.7404,
@@ -7759,10 +7759,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 55.56,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 55.56000137,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 59.1948,
@@ -7944,10 +7944,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 97.84,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 97.83999634,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 92.71,
@@ -8129,10 +8129,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 33.22,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 33.22000122,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 34.725,
@@ -8314,10 +8314,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 36.18,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 36.18000031,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 35.665,
@@ -8499,10 +8499,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 17.37,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 17.37000084,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 17.92,
@@ -8684,10 +8684,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 9.87,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 9.86999989,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 9.979,
@@ -8869,10 +8869,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 84.43,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 84.43000031,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 82.6,
@@ -9286,10 +9286,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 25.81,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 25.80999947,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 27.03,
@@ -9471,10 +9471,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 35.8,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 35.79999924,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 38.105,
@@ -9841,10 +9841,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 41.98,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 41.97999954,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 40.363,
@@ -10026,10 +10026,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 47.31,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 47.31000137,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 47.5,
@@ -10211,10 +10211,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 10.65,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 10.64999962,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 10.945,
@@ -10396,10 +10396,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 37.31,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 37.31000137,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 19.655,
@@ -10581,10 +10581,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 14.37,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 14.36999989,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 14.685,
@@ -10879,10 +10879,10 @@
           "fetchedAt": "2026-09-08T00:29:00Z"
         },
         "2026-09-08": {
-          "close": 89.7,
-          "final": false,
-          "source": "fundamentals-bootstrap",
-          "fetchedAt": "2026-09-09T02:41:10.383101+00:00"
+          "close": 89.69999695,
+          "final": true,
+          "source": "yahoo-yfinance-final",
+          "fetchedAt": "2026-09-10T00:18:26Z"
         },
         "2026-09-09": {
           "close": 89.315,
@@ -10894,10 +10894,11 @@
     }
   },
   "markets": {
-    "HK": {
+    "US": {
       "status": "ok",
-      "source": "hkex-daily-quotation",
-      "dates": 4,
+      "source": "yahoo-yfinance-final",
+      "symbols": 55,
+      "total": 55,
       "errors": 0
     }
   }
