@@ -14,7 +14,672 @@
       "eps_next_q2": null,
       "eps_cur_y": null,
       "eps_next_y": null,
-      "fetched_at": 1789010280197
+      "fetched_at": 1789002189627
     }
+  },
+  "macro": {
+    "results": [
+      {
+        "symbol": "^GSPC",
+        "name": "S&P 500",
+        "cat": "股市",
+        "price": 7636.35986328125,
+        "chg1d": -0.4842647983639455,
+        "chg7d": -0.39444126457365003
+      },
+      {
+        "symbol": "^IXIC",
+        "name": "Nasdaq",
+        "cat": "股市",
+        "price": 26253.33984375,
+        "chg1d": -0.6361140889379928,
+        "chg7d": 0.135441283733957
+      },
+      {
+        "symbol": "^SOX",
+        "name": "費城半導體",
+        "cat": "股市",
+        "price": 11931.3203125,
+        "chg1d": 0.3655002526455908,
+        "chg7d": 5.221423925744649
+      },
+      {
+        "symbol": "^VIX",
+        "name": "恐慌指數 VIX",
+        "cat": "情緒",
+        "price": 16.31999969482422,
+        "chg1d": -0.8505431192915694,
+        "chg7d": 13.966480744569251
+      },
+      {
+        "symbol": "^TNX",
+        "name": "10年期美債殖利率",
+        "cat": "利率",
+        "price": 4.836999893188477,
+        "chg1d": 0.6450199540367101,
+        "chg7d": 0.8548767585731513
+      },
+      {
+        "symbol": "DX-Y.NYB",
+        "name": "美元指數",
+        "cat": "外匯",
+        "price": 98.72799682617188,
+        "chg1d": -0.04252284936923668,
+        "chg7d": -0.2747506806344697
+      },
+      {
+        "symbol": "GC=F",
+        "name": "黃金",
+        "cat": "商品",
+        "price": 4458,
+        "chg1d": 0.9510869565217392,
+        "chg7d": -0.7502770409224826
+      },
+      {
+        "symbol": "CL=F",
+        "name": "原油 (WTI)",
+        "cat": "商品",
+        "price": 96.33000183105469,
+        "chg1d": 0.2915135558569363,
+        "chg7d": 5.509308445965087
+      },
+      {
+        "symbol": "BTC-USD",
+        "name": "Bitcoin",
+        "cat": "加密",
+        "price": 78090.2421875,
+        "chg1d": -0.4440875215061785,
+        "chg7d": -3.914644763809838
+      }
+    ],
+    "news": [
+      {
+        "uuid": "33bbb90f-8cc5-3ee9-85ec-38c066fbf718",
+        "title": "70% Revenue Growth for Nvidia Next Year May Make It the Best Stock to Buy In the Market",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/33bbb90f-8cc5-3ee9-85ec-38c066fbf718/70%25-revenue-growth-for-nvidia.html",
+        "providerPublishTime": 1789026600,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/dbWmZ3vQafKT4ucl5seW8A--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/46187fe4e323388f05762ab9e797f2f9.png",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/_OhEy2JmRLtV5KueVE.BsA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/46187fe4e323388f05762ab9e797f2f9.png",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "NVDA"
+        ],
+        "_sym": "NVDA",
+        "titleZh": "NVIDIA明年營收增長70% ，可能成為市場上最值得購買的股票"
+      },
+      {
+        "uuid": "95c2d4e1-403c-3ee4-b096-63c03d51e007",
+        "title": "Taiwan Semiconductor Manufacturing Reports Rise in August Revenue",
+        "publisher": "MT Newswires",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/taiwan-semiconductor-manufacturing-reports-rise-074643919.html",
+        "providerPublishTime": 1789026403,
+        "type": "STORY",
+        "relatedTickers": [
+          "TSM"
+        ],
+        "_sym": "TSM",
+        "titleZh": "臺灣半導體製造業8月營收報告上升"
+      },
+      {
+        "uuid": "abba2bf3-4121-3f13-b3d3-2313f7f00164",
+        "title": "Bloom Energy Has More Room to Run Amid the AI Supercycle, and Its S&P 500 Inclusion Could Add to the Momentum",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/abba2bf3-4121-3f13-b3d3-2313f7f00164/bloom-energy-has-more-room-to.html",
+        "providerPublishTime": 1789025700,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/oEj2ycwt5jtnTPd8KzsZGA--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/75be63c421c353ec6cc631ebda01d4ae.jpg",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EBPFRc4qssyUU4n9i4ivJg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/75be63c421c353ec6cc631ebda01d4ae.jpg",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "BE",
+          "^GSPC",
+          "NVDA"
+        ],
+        "_sym": "NVDA",
+        "titleZh": "Bloom Energy在人工智能超級週期中有更多運行空間，其標準普爾500指數的包容性可能會增加勢頭"
+      },
+      {
+        "uuid": "47ab84dd-2760-3ca8-badc-2686751ac914",
+        "title": "OpenAI’s Samsung Pivot: The Reality of Manufacturing Diversification",
+        "publisher": "Forkast News",
+        "link": "https://finance.yahoo.com/technology/ai/articles/openai-samsung-pivot-reality-manufacturing-073216260.html",
+        "providerPublishTime": 1789025536,
+        "type": "STORY",
+        "relatedTickers": [
+          "005930.KS",
+          "TSM",
+          "AVGO"
+        ],
+        "_sym": "TSM",
+        "titleZh": "OpenAI的Samsung Pivot ：製造業多元化的現實"
+      },
+      {
+        "uuid": "76a3874e-6fea-3720-af04-95135f282480",
+        "title": "Nvidia Stock Slips Overnight: Director Mark Stevens Dumps $640M In Stock Amid AI Testing Capacity Strains",
+        "publisher": "Stocktwits",
+        "link": "https://finance.yahoo.com/m/76a3874e-6fea-3720-af04-95135f282480/nvidia-stock-slips-overnight%3A.html",
+        "providerPublishTime": 1789024648,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/uqMa2Ve4PzTaMtJMTvrZJw--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/c731ec994f031749720e42b3128d404c",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/TwoCjoF1nz2k.LXdepD9Zg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stocktwits_383/c731ec994f031749720e42b3128d404c",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "NVDA"
+        ],
+        "_sym": "NVDA",
+        "titleZh": "NVIDIA股票隔夜下跌：董事Mark Stevens在人工智能測試能力緊張的情況下拋售6.4億$的股票"
+      },
+      {
+        "uuid": "1aa7d5c1-be27-322c-8718-f4715aa614e6",
+        "title": "Is Joby Aviation a Buy Now?",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/1aa7d5c1-be27-322c-8718-f4715aa614e6/is-joby-aviation-a-buy-now%3F.html",
+        "providerPublishTime": 1789021500,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/bMCAdOiyKx_2Cb2Ntt9tPg--~B/aD05MzM7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0681cbda563bb2d2819fb36ef1761022.jpg",
+              "width": 1400,
+              "height": 933,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/aP9ep.9pft4AiVavo3E58A--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/0681cbda563bb2d2819fb36ef1761022.jpg",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "JOBY",
+          "NVDA"
+        ],
+        "_sym": "NVDA",
+        "titleZh": "Joby Aviation是否立即購買？"
+      },
+      {
+        "uuid": "c5448a87-4e6e-30ca-a5f1-a8114a49789a",
+        "title": "Marvell Technology Targets $18B as AI Networking and Optics Fuel Growth",
+        "publisher": "MarketBeat",
+        "link": "https://finance.yahoo.com/m/c5448a87-4e6e-30ca-a5f1-a8114a49789a/marvell-technology-targets.html",
+        "providerPublishTime": 1789020126,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/b8C9f7_XYqN6J1Z9Gbcu6A--~B/aD02NzU7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/ace4741e1beb83341043343565fe0c9e.jpg",
+              "width": 1200,
+              "height": 675,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/0gySY.AbrH25rz8x6nmQeg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/marketbeat_955/ace4741e1beb83341043343565fe0c9e.jpg",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "MRVL",
+          "AVGO",
+          "NVDA"
+        ],
+        "_sym": "NVDA",
+        "titleZh": "Marvell Technology的目標是$ 180億，因為AI網絡和光學推動了增長"
+      },
+      {
+        "uuid": "59de9715-6649-3bb7-ab2a-645a0715c752",
+        "title": "Dow Jones Futures Rise After Oil Prices, Yields Hit Stocks; Inflation Data Due.",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/59de9715-6649-3bb7-ab2a-645a0715c752/dow-jones-futures-rise-after.html",
+        "providerPublishTime": 1789009745,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/xkvebW1MWOX5xFOV0ECxCA--~B/aD01MzM7dz05NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/0ca81e6508f802ce0781c7e21939a763.jpg",
+              "width": 945,
+              "height": 533,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/EB5re9A4N8Ha0gjzhb4tBg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/0ca81e6508f802ce0781c7e21939a763.jpg",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "^DJI",
+          "^GSPC",
+          "CL=F",
+          "SPCX",
+          "AAPL",
+          "META",
+          "^RUT",
+          "^IXIC",
+          "AMD",
+          "NET"
+        ],
+        "_sym": "AMD",
+        "titleZh": "道瓊斯期貨在油價、孳息率擊中股票後上漲；通脹數據到期。"
+      },
+      {
+        "uuid": "503da2b5-62c1-3933-b7e3-d21b10526394",
+        "title": "Marvell Or NVIDIA: Which One Costs Less Per Dollar Of Profit?",
+        "publisher": "Trefis",
+        "link": "https://finance.yahoo.com/m/503da2b5-62c1-3933-b7e3-d21b10526394/marvell-or-nvidia%3A-which-one.html",
+        "providerPublishTime": 1788994932,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/SGH1bXAkIuRtzBv_ux2mxA--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/819c7c9a1e17ab2ee1c33e599bcc2465.jpg",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/XSJF5.uuBSToY1osEx7ljQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/819c7c9a1e17ab2ee1c33e599bcc2465.jpg",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "NVDA",
+          "MRVL",
+          "AMD",
+          "INTC",
+          "AVGO"
+        ],
+        "_sym": "AMD",
+        "titleZh": "Marvell或NVIDIA ：每1美元的利潤，哪一個成本更低？"
+      },
+      {
+        "uuid": "41c925e9-d258-3ea8-a204-798973ed1216",
+        "title": "From Farmland to Fast Trading, ETFs Are Doing It All",
+        "publisher": "etf.com",
+        "link": "https://finance.yahoo.com/m/41c925e9-d258-3ea8-a204-798973ed1216/from-farmland-to-fast.html",
+        "providerPublishTime": 1788994550,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/LYyHIhVmpMBmLnQwJRhAPQ--~B/aD00ODI7dz03NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/indexuniverse.com/d7cc6c0eddc381526426b7b71a3bd878.jpg",
+              "width": 760,
+              "height": 482,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gUYQfclmF8FNWiR4BFvzQA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/indexuniverse.com/d7cc6c0eddc381526426b7b71a3bd878.jpg",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "SMH",
+          "SOXX",
+          "VFFSX",
+          "VFIAX",
+          "VFINX",
+          "VOO",
+          "IBIT"
+        ],
+        "_sym": "SOXX",
+        "titleZh": "從農田到快速交易， ETF正在做這一切"
+      },
+      {
+        "uuid": "7ca0f0c6-15f1-3434-ad49-fce3c8d8387d",
+        "title": "Micron's Operating Margin Surged Past 80% for the First Time Ever. History Says This Is What's Coming Next.",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/7ca0f0c6-15f1-3434-ad49-fce3c8d8387d/micron%27s-operating-margin.html",
+        "providerPublishTime": 1788992100,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/rLwVfCed8Q_65aMkdRdL4Q--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/eb26aded2e11ed18a12764d69c6a3f4e.png",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/CC902Cu48VFwUMA9.2ipQQ--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/eb26aded2e11ed18a12764d69c6a3f4e.png",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "MU",
+          "NVDA"
+        ],
+        "_sym": "MU",
+        "titleZh": "美光的營業利潤率首次突破80%。歷史告訴我們接下來會發生甚麼事。"
+      },
+      {
+        "uuid": "a4ca1dd9-9a28-3194-baa5-edb82380b69b",
+        "title": "SanDisk Traded Its Best Prices For Something Rarer",
+        "publisher": "Trefis",
+        "link": "https://finance.yahoo.com/m/a4ca1dd9-9a28-3194-baa5-edb82380b69b/sandisk-traded-its-best.html",
+        "providerPublishTime": 1788991508,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/5HEtZmorqSXOj6Yz07mD6Q--~B/aD04NTM7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/aec1911f7df19eee11f9c07efd02521d.jpg",
+              "width": 1280,
+              "height": 853,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/U6oPirsWi5.HMuPfWvApEw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/trefis_142/aec1911f7df19eee11f9c07efd02521d.jpg",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "SNDK",
+          "MU",
+          "WDC",
+          "HPE",
+          "STX",
+          "NTAP"
+        ],
+        "_sym": "MU",
+        "titleZh": "SanDisk以最優惠的價格交易更罕見的商品"
+      },
+      {
+        "uuid": "9a721241-f489-3359-b150-9e6a1704ce15",
+        "title": "Advanced Micro Devices (AMD) Ascends While Market Falls: Some Facts to Note",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-amd-ascends-214504877.html",
+        "providerPublishTime": 1788990304,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/DkTKfCqApvZpsoBxiE2qTw--~B/aD00NzY7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/ace7df31c7fcb10255abe7c990ea373a.jpg",
+              "width": 900,
+              "height": 476,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/tTMpihZCouimzMNYgehS2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/ace7df31c7fcb10255abe7c990ea373a.jpg",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "AMD",
+          "^GSPC",
+          "^DJI",
+          "^IXIC"
+        ],
+        "_sym": "AMD",
+        "titleZh": "進階微型裝置（ AMD ）在市場下跌時上漲：需要注意的一些事實"
+      },
+      {
+        "uuid": "54844619-c626-3358-b72a-2319d42f6ba6",
+        "title": "Could Advanced Micro Devices (AMD)’s Partnership With Cisco Systems (CSCO) Unlock a Massive Middle East AI Opportunity?",
+        "publisher": "Insider Monkey",
+        "link": "https://finance.yahoo.com/technology/ai/articles/could-advanced-micro-devices-amd-213247998.html",
+        "providerPublishTime": 1788989567,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/T81NnUFzGdY0iBvzG_jYtA--~B/aD0zMzg3O3c9NTA4MTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/insidermonkey.com/2e71847de667cfd15cf8ad12ad7902b6.jpg",
+              "width": 5081,
+              "height": 3387,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/DHX4_SAskV6qaythQaklEg--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/insidermonkey.com/2e71847de667cfd15cf8ad12ad7902b6.jpg",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "AMD",
+          "CSCO"
+        ],
+        "_sym": "AMD",
+        "titleZh": "Advanced Micro Devices (AMD)與Cisco Systems (CSCO)的合作能否帶來巨大的中東人工智慧商機？"
+      },
+      {
+        "uuid": "347c373b-d105-3224-b28b-045714220e36",
+        "title": "AMD, IBD Stock Of The Day, Runs Past Early Buy Point As Chipmaker Returns To Favor",
+        "publisher": "Investor's Business Daily",
+        "link": "https://finance.yahoo.com/m/347c373b-d105-3224-b28b-045714220e36/amd%2C-ibd-stock-of-the-day%2C.html",
+        "providerPublishTime": 1788986947,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/R9RtoV.mlzXBRNTr1LkcTQ--~B/aD00MzA7dz04MTY7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/ibd.com/52b58c4f7144718ffbf38a4a011a2f62.png",
+              "width": 816,
+              "height": 430,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/PKEH33T8UeffFtGwm6KB2Q--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/ibd.com/52b58c4f7144718ffbf38a4a011a2f62.png",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "AMD"
+        ],
+        "_sym": "AMD",
+        "titleZh": "AMD ，當日IBD股票，超過提前購買點，因為芯片製造商回歸青睞"
+      },
+      {
+        "uuid": "13a3fc8d-331b-3afb-987e-238ad4d3ede5",
+        "title": "Apple, ServiceTitan, Meta, Micron, Casey’s, Jersey Mike’s, and More Stocks That Explain Today’s Market",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/13a3fc8d-331b-3afb-987e-238ad4d3ede5/apple%2C-servicetitan%2C-meta%2C.html",
+        "providerPublishTime": 1788986520,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/BoRsVdpYZ_sy4VsW9OGrNw--~B/aD02NDA7dz0xMjgwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c2e01182f9c3d8ce284917b4237640d9.jpg",
+              "width": 1280,
+              "height": 640,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2v7sVW4RBOttUTJ.u8G9uA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/c2e01182f9c3d8ce284917b4237640d9.jpg",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "META",
+          "TTAN",
+          "AAPL",
+          "CL=F",
+          "^GSPC",
+          "JMKE",
+          "MU"
+        ],
+        "_sym": "MU",
+        "titleZh": "Apple、ServiceTitan、Meta、Micron、Casey's、Jersey Mike's以及更多解釋當今市場的股票"
+      },
+      {
+        "uuid": "96ec4fc2-6372-3c4a-a1ef-cf5a9b0985de",
+        "title": "Prediction: Micron's Sept. 30 Earnings Could Be the Most Important Catalyst for AI Memory Stocks This Year",
+        "publisher": "Motley Fool",
+        "link": "https://finance.yahoo.com/m/96ec4fc2-6372-3c4a-a1ef-cf5a9b0985de/prediction%3A-micron%27s-sept.-30.html",
+        "providerPublishTime": 1788985200,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/9y._vDZoHXX0fx4RUc7kYg--~B/aD04MDA7dz0xMjAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a62b2fdc0bab8832fa29395061762365.png",
+              "width": 1200,
+              "height": 800,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/PK7ZOsyrs25KvqCBNCP7uA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/motleyfool.com/a62b2fdc0bab8832fa29395061762365.png",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "MU",
+          "NVDA",
+          "SNDK"
+        ],
+        "_sym": "MU",
+        "titleZh": "預測：美光9月30日的盈利可能是今年AI記憶庫存最重要的催化劑"
+      },
+      {
+        "uuid": "e6c53b4c-a1f5-373b-98fd-3009d16bc381",
+        "title": "Micron, Sandisk and the Next Leg Higher in Memory Stocks",
+        "publisher": "Zacks",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/micron-sandisk-next-leg-higher-194200329.html",
+        "providerPublishTime": 1788982920,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gjeEVHWYOHOWDLf8_EJLgQ--~B/aD00MDA7dz02MzU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/zacks.com/f137593ef3b3f5b2675404f14056fe62.jpg",
+              "width": 635,
+              "height": 400,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/gb6nEIln0SsLu6W5CcQTxw--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/zacks.com/f137593ef3b3f5b2675404f14056fe62.jpg",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "MU",
+          "SNDK",
+          "SKHY"
+        ],
+        "_sym": "MU",
+        "titleZh": "美光、桑迪斯克和記憶庫存的下一站更高"
+      },
+      {
+        "uuid": "9b2f552d-dc85-342a-adf0-e9024b2b174b",
+        "title": "Bank of America Spots a Major Semiconductor. Micron and AMD Are Big Winners",
+        "publisher": "GuruFocus.com",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/bank-america-spots-major-semiconductor-190624043.html",
+        "providerPublishTime": 1788980784,
+        "type": "STORY",
+        "relatedTickers": [
+          "AMD",
+          "NVDA",
+          "MU",
+          "AVGO",
+          "SNDK"
+        ],
+        "_sym": "SNDK",
+        "titleZh": "美國銀行發現了一家主要的半導體公司。美光和AMD是大贏家"
+      },
+      {
+        "uuid": "eeac3472-dfd4-3453-8eb1-ac43be6fe15e",
+        "title": "Are Chip Stocks a New Short-Term Safety Play?",
+        "publisher": "Barrons.com",
+        "link": "https://finance.yahoo.com/m/eeac3472-dfd4-3453-8eb1-ac43be6fe15e/are-chip-stocks-a-new.html",
+        "providerPublishTime": 1788979146,
+        "type": "STORY",
+        "thumbnail": {
+          "resolutions": [
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/3seIyMYRD0699UBVb3FN8A--~B/aD02NTt3PTMyMDthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+              "width": 320,
+              "height": 65,
+              "tag": "original"
+            },
+            {
+              "url": "https://s.yimg.com/uu/api/res/1.2/2FFPHEeeUG.nOBEoFm4MIA--~B/Zmk9ZmlsbDtoPTE0MDtweW9mZj0wO3c9MTQwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/Barrons.com/12ea0f43d8f8307249a68d1cb2e0587e.png",
+              "width": 140,
+              "height": 140,
+              "tag": "140x140"
+            }
+          ]
+        },
+        "relatedTickers": [
+          "^SOX",
+          "^GSPC",
+          "DRAM",
+          "SOXX",
+          "^IXIC"
+        ],
+        "_sym": "SOXX",
+        "titleZh": "CHIP股票是新的短期安全策略嗎？"
+      }
+    ],
+    "fetched_at": 1789027437135
   }
 }
